@@ -22,7 +22,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/', function () {
         return view('welcome',
             [
-                'title' => "An even cooler way to do the title"
+                'title' => "Welcome to Industrial Revolution 4.0"
             ]
         );
     });

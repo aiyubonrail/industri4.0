@@ -5,9 +5,7 @@
             <div class="title m-b-md">
                     {{title}}
                 </div>
-                <div class="title m-b-md">
-                    Welcome to Vue.js on Laravel
-                </div>
+                
                 
             </div>
         </div>
